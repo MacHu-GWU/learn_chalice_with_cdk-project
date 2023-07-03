@@ -1,4 +1,7 @@
 # User Settings
+/infrastructure/cdk.out
+/infrastructure/chalice.out
+/runtime/.chalice/deployments
 /tmp
 cookiecutterize.py
 
